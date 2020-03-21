@@ -16,6 +16,10 @@ Added 2020-03-16.
 
 Added 2020-03-08.
 
+## Hawaii: 2016
+
+Added 2020-03-20.
+
 ## Virginia: 2016
 
 Added 2020-03-08.
