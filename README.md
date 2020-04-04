@@ -20,6 +20,10 @@ Added 2020-03-08.
 
 Added 2020-03-20.
 
+## Minnesota: 2016
+
+Added 2020-04-04.
+
 ## Virginia: 2016
 
 Added 2020-03-08.
