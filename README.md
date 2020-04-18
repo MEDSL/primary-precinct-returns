@@ -8,6 +8,10 @@ The `2018_precint_primary` and `2016_precint_primary` datasets contain precinct 
 
 Added 2020-03-08.
 
+## Connecticut: 2018
+
+Added 2020-04-18.
+
 ## Hawaii: 2018
 
 Added 2020-04-15.
