@@ -16,6 +16,12 @@ Added 2020-04-18.
 
 Added 2020-04-15.
 
+## Nevada: 2018
+
+Added 2020-04-19.
+
+For Nevada 2018, there are "masked" vote totals (a voting report law states if in one office election mode there is a turnout of between 1 and 10, the vote totals are hidden--marked as '*' in the original file--to protect voter privacy). There are coded as a negative one (-1) in the cleaned data file's votes variable.
+
 ## Ohio: 2018
 
 Added 2020-03-16.
