@@ -34,6 +34,10 @@ Added 2020-03-08.
 
 Added 2020-03-20.
 
+## Massachusetts: 2016
+
+Added 2020-04-27.
+
 ## Minnesota: 2016
 
 Added 2020-04-04.
