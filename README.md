@@ -38,6 +38,8 @@ Added 2020-03-20.
 
 Added 2020-04-27.
 
+For Massachusetts 2016 and 2018 data, we create a unique precinct identifier ourselves, which makes use of precinct and ward numbers in the raw data. This takes the format of either "TOWN - WARD X - PCT Y", "TOWN - WARD X", or "TOWN - PCT Y", where TOWN is the town name, X is the ward number, and Y is the precinct number in the raw data.
+
 ## Minnesota: 2016
 
 Added 2020-04-04.
