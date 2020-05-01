@@ -16,6 +16,10 @@ Added 2020-04-18.
 
 Added 2020-04-15.
 
+## Minnesota: 2018
+
+Added 2020-05-01.
+
 ## Nevada: 2018
 
 Added 2020-04-19.
