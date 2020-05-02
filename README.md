@@ -48,6 +48,12 @@ For Massachusetts 2016 and 2018 data, we create a unique precinct identifier our
 
 Added 2020-04-04.
 
+## Nevada: 2016
+
+Added 2020-05-02.
+
+For Nevada 2016, there are "masked" vote totals (a voting report law states if in one office election mode there is a turnout of between 1 and 10, the vote totals are hidden--marked as '*' in the original file--to protect voter privacy). There are coded as a negative one (-1) in the cleaned data file's votes variable.
+
 ## Virginia: 2016
 
 Added 2020-03-08.
