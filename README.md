@@ -16,6 +16,12 @@ Added 2020-04-18.
 
 Added 2020-04-15.
 
+## Massachusetts: 2018
+
+Added 2020-05-04.
+
+For Massachusetts 2016 and 2018 data, we create a unique precinct identifier ourselves, which makes use of precinct and ward numbers in the raw data. This takes the format of either "TOWN - WARD X - PCT Y", "TOWN - WARD X", or "TOWN - PCT Y", where TOWN is the town name, X is the ward number, and Y is the precinct number in the raw data.
+
 ## Minnesota: 2018
 
 Added 2020-05-01.
@@ -29,6 +35,14 @@ For Nevada 2018, there are "masked" vote totals (a voting report law states if i
 ## Ohio: 2018
 
 Added 2020-03-16.
+
+For Ohio 2018, there are a few uncontested races where there is a major two party write in candidate that is not in the data.
+
+## Tennessee: 2018
+
+Added 2020-05-05.
+
+For Tennessee 2018 data, we create a unique precinct identifier ourselves, which makes use of county precinct information in the raw data. This takes the format of "COUNTY - PCT X", where COUNTY is the county name field and X is the precinct label.
 
 ## Virginia: 2018
 
