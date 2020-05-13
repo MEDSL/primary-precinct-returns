@@ -52,6 +52,10 @@ For Tennessee 2018 data, we create a unique precinct identifier ourselves, which
 
 Added 2020-03-08.
 
+## District of Columbia: 2016
+
+Added 2020-05-13.
+
 ## Hawaii: 2016
 
 Added 2020-03-20.
