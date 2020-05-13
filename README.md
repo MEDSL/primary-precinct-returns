@@ -12,6 +12,10 @@ Added 2020-03-08.
 
 Added 2020-04-18.
 
+## District of Columbia: 2018
+
+Added 2020-05-12.
+
 ## Hawaii: 2018
 
 Added 2020-04-15.
