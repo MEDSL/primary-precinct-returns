@@ -4,6 +4,10 @@ This is the MEDSL repository for official precinct returns for 2016 and 2018 Pri
 
 The `2018_precint_primary` and `2016_precint_primary` datasets contain precinct level primary election returns for all offices in 2018 and 2016. It is incomplete but will be updated periodically until completion. The following states and districts are included in the dataset:
 
+## Alaska: 2018
+
+Added 2020-05-25.
+
 ## Arizona: 2018
 
 Added 2020-03-08.
