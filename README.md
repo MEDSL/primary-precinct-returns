@@ -24,6 +24,10 @@ Added 2020-05-12.
 
 Added 2020-04-15.
 
+## Maryland: 2018
+
+Added 2020-06-17.
+
 ## Massachusetts: 2018
 
 Added 2020-05-04.
