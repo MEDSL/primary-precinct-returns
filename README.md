@@ -2,7 +2,10 @@
 
 This is the MEDSL repository for official precinct returns for 2016 and 2018 Primary Elections.
 
-The `2018_precint_primary` and `2016_precint_primary` datasets contain precinct level primary election returns for all offices in 2018 and 2016. It is incomplete but will be updated periodically until completion. The following states and districts are included in the dataset:
+The `2018_precint_primary` and `2016_precint_primary` datasets contain precinct level primary election returns for all offices in 2018 and 2016. Users can download data by the level of office returns (president, US senate, US house, state, or local levels). For each state that is complete, users can also download all of the precinct-level returns separately in the folders above.
+
+
+The returns are in progress, and will be updated periodically until completion. The following states and districts are included in the dataset:
 
 ## Alaska: 2018
 
