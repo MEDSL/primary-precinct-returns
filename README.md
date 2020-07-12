@@ -27,6 +27,20 @@ Added 2020-05-12.
 
 Added 2020-04-15.
 
+## Kansas: 2018
+
+Added 2020-07-12.
+
+Some counties held primaries for the positions of Attorney General, State Treasurer, Commisioner of Insurance, as well as additional local elections. Even if some counties submitted election results for these (and some are available in the raw files), they were not included in the formatted data, as for the majority of counties these results were unavailable.
+
+Johnson County did not submit district information for the candidates in its State House primaries. They were manually added by referencing the Secretary of State website [here](https://web.archive.org/web/20180809220344/https://ent.sos.ks.gov/kssos_ent.html) and [here](https://web.archive.org/web/20181211052726/https://ent.sos.ks.gov/kssos_ent.html)
+
+Election returns for Shawnee and Wyandotte County were mostly submitted as scanned or OCR'd documents. They were manually transcribed to a format similar to the one submitted by Johnson County and can be found as `Shawnee.xlsx` and `Wyandotte.xlsx` in the `raw` folder. Each file lists the results of its county, one sheet per race.
+
+Data for the Republican primaries for Secretary of State in Shawnee County was completely missing. Values of -1 were put for all candidates in all precincts for this race.
+
+Data for the Democratic primaries for Governor/Lt. Governor in Wyandotte County was partially missing (namely the results for precints 0096 Kansas City 13-9 through 0113 Lake Quivira 1-1). Values of -1 were put for all candidates in these precincts for this race.
+
 ## Maryland: 2018
 
 Added 2020-06-17.
