@@ -55,6 +55,12 @@ For Massachusetts 2016 and 2018 data, we create a unique precinct identifier our
 
 Added 2020-05-01.
 
+## North Carolina: 2018
+
+Added 2020-07-16.
+
+There are a small number of discrepancies between the raw data and the election results posted [online](https://er.ncsbe.gov/?election_dt=05/08/2018&county_id=0&office=FED&contest=0), typically only by a few votes and for non-election day voting modes. These discrepancies are not corrected in our final cleaned data. You can find a list of the known discrepancies inside the North Carolina folder (NC). 
+
 ## Nevada: 2018
 
 Added 2020-04-19.
