@@ -55,6 +55,10 @@ For Massachusetts 2016 and 2018 data, we create a unique precinct identifier our
 
 Added 2020-05-01.
 
+## Montana: 2018
+
+Added 2020-07-19.
+
 ## North Carolina: 2018
 
 Added 2020-07-16.
