@@ -19,6 +19,10 @@ Added 2020-03-08.
 
 Added 2020-04-18.
 
+## Delaware: 2018
+
+Added 2020-08-04.
+
 ## District of Columbia: 2018
 
 Added 2020-05-12.
