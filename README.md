@@ -109,6 +109,28 @@ Added 2020-04-27.
 
 For Massachusetts 2016 and 2018 data, we create a unique precinct identifier ourselves, which makes use of precinct and ward numbers in the raw data. This takes the format of either "TOWN - WARD X - PCT Y", "TOWN - WARD X", or "TOWN - PCT Y", where TOWN is the town name, X is the ward number, and Y is the precinct number in the raw data.
 
+A few candidates appear as running for the same office for multiple parties as write-ins. We believe this is a case of voters accidentally voting for these candidates as a write-in for a different party's primary election. All vote totals were kept as they are. These candidates are:
+
+-Dean Tran ran for State House as Democrat write-in and Republican write-in
+
+-James A Perelmann ran for Sheriff as Democrat and as a Republican write-in
+
+-Jessica G Lambert ran for State House as Democrat and as United Independent write-in
+
+-Joan Meschino ran for State House as a Democrat write-in and State Senate as a Democrat
+
+-Marc Richard Rivers ran for Sheriff as a Democrat and as a Republican write-in
+
+-Paulo C DeOliveira ran for Register of Deeds as Democrat and as a Republican write-in
+
+-Robert Odgen ran for Sheriff as Democrat and as a Republican write-in
+
+-Shaunna L O'Conell ran for State House as a Republican and as a Democrat write-in
+
+-Shawn C. Dooley ran for State House as a Republican and as a Democrat write-in
+
+-Stephen P Sandrelli ran for State House as a Democrat write-in and Republican write-in
+
 ## Minnesota: 2016
 
 Added 2020-04-04.
