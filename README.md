@@ -67,7 +67,7 @@ Added 2020-07-19.
 
 Added 2020-07-16.
 
-There are a small number of discrepancies between the raw data and the election results posted [online](https://er.ncsbe.gov/?election_dt=05/08/2018&county_id=0&office=FED&contest=0), typically only by a few votes and for non-election day voting modes. These discrepancies are not corrected in our final cleaned data. You can find a list of the known discrepancies inside the North Carolina folder (NC). 
+There are a small number of discrepancies between the raw data and the election results posted [online](https://er.ncsbe.gov/?election_dt=05/08/2018&county_id=0&office=FED&contest=0), typically only by a few votes and for non-election day voting modes. These discrepancies are not corrected in our final cleaned data. You can find a list of the known discrepancies inside the North Carolina folder. 
 
 ## Nevada: 2018
 
@@ -154,3 +154,9 @@ On March 4th, 2016, after the 2016 US Presidential Primaries, precinct “301 - 
   - 301 - Waterview votes for 2016 Presidential Primaries NOT included in these official results: https://results.elections.virginia.gov/vaelections/2016%20March%20Democratic%20Presidential%20Primary/Site/Locality/MIDDLESEX%20COUNTY/President.html
   
 We have kept 301 - Waterview in our 2016 Presidential Primary data for the VA primaries.
+
+## Wisconsin: 2016
+
+Added 2020-08-24.
+
+There are a small number of discrepancies between the raw data and the election results posted [online](https://elections.wi.gov/elections-voting/results/), typically only by a few votes and for non-election day voting modes. These discrepancies are not corrected in our final cleaned data. You can find a list of the known discrepancies inside the Wisconsin folder. 
