@@ -155,6 +155,16 @@ On March 4th, 2016, after the 2016 US Presidential Primaries, precinct “301 - 
   
 We have kept 301 - Waterview in our 2016 Presidential Primary data for the VA primaries.
 
+## West Virginia: 2016
+
+Added 2020-09-04.
+
+There are two candidates for state senate with small discrepancies in the raw data relative to the official results online (found here: https://apps.sos.wv.gov/elections/results/results.aspx?year=2016&eid=22&county=Statewide).
+
+1) DONNA J BOLEY, DELEGATE TO REPUBLICAN NATIONAL CONVENTION -- AT LARGE - the precinct level results for Monongalia County are missing in the raw data. There were 3,089 votes in this county for Donna J. Boley
+
+2) DAN HILL, DELEGATE TO REPUBLICAN NATIONAL CONVENTION -- AT LARGE - all the county level vote counts match official reports online, but the total votes on the official website lists him as getting 62,227 when really it should be 60,253.
+
 ## Wisconsin: 2016
 
 Added 2020-08-24.
