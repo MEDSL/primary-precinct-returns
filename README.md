@@ -155,6 +155,12 @@ On March 4th, 2016, after the 2016 US Presidential Primaries, precinct “301 - 
   
 We have kept 301 - Waterview in our 2016 Presidential Primary data for the VA primaries.
 
+## Washington: 2016
+
+Added 2020-09-11.
+
+For Washington 2016, there are "masked" vote totals, marked as  '*' in the original file--to protect voter privacy. There are coded as a negative one (-1) in the cleaned data file's votes variable.
+
 ## West Virginia: 2016
 
 Added 2020-09-04.
