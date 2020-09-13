@@ -81,6 +81,14 @@ Added 2020-03-16.
 
 For Ohio 2018, there are a few uncontested races where there is a major two party write in candidate that is not in the data.
 
+## South Carolina: 2018
+
+Added 2020-09-12.
+
+South Carolina raw data does not include absentee, provisional/failsafe, or "emergency" voting totals at the precinct-level. But they are included at the county level. We include the county-level votes for each of these different modes of voting for each election and candidate, but users should be wary when aggregating these totals.
+
+Additionally, there is an issue with the Republican Questions 1 and 2 in 2018. The official online results are missing the county results for Charleston and Greenville, while we have these two counties' votes in our precinct level data. When I exclude Charleston and Greenville votes from our precinct level data and aggregate up, the results match the official online results (https://www.enr-scvotes.org/SC/75708/Web02-state.203322/#/cid/29505). 
+
 ## Tennessee: 2018
 
 Added 2020-05-05.
@@ -144,6 +152,12 @@ Added 2020-07-21.
 Added 2020-05-02.
 
 For Nevada 2016, there are "masked" vote totals (a voting report law states if in one office election mode there is a turnout of between 1 and 10, the vote totals are hidden--marked as '*' in the original file--to protect voter privacy). There are coded as a negative one (-1) in the cleaned data file's votes variable.
+
+## South Carolina: 2016
+
+Added 2020-09-12.
+
+South Carolina raw data does not include absentee, provisional/failsafe, or "emergency" voting totals at the precinct-level. But they are included at the county level. We include the county-level votes for each of these different modes of voting for each election and candidate, but users should be wary when aggregating these totals.
 
 ## Virginia: 2016
 
