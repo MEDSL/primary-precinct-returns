@@ -81,9 +81,13 @@ Added 2020-03-16.
 
 For Ohio 2018, there are a few uncontested races where there is a major two party write in candidate that is not in the data.
 
+## Oklahoma: 2018
+
+Added 2021-02-09. Local offices not included at the moment.
+
 ## South Carolina: 2018
 
-Added 2020-09-12.
+Added 2020-09-12. Local offices not included at the moment.
 
 South Carolina raw data does not include absentee, provisional/failsafe, or "emergency" voting totals at the precinct-level. But they are included at the county level. We include the county-level votes for each of these different modes of voting for each election and candidate, but users should be wary when aggregating these totals.
 
@@ -99,13 +103,17 @@ For Tennessee 2018 data, we create a unique precinct identifier ourselves, which
 
 Added 2020-03-08.
 
+## Wisconsin: 2018.
+
+Added 2021-01-12. Local offices not included at the moment.
+
 ## Alaska: 2016
 
 Added 2020-06-01.
 
 ## Arizona: 2016
 
-Added 2020-09-21.
+Added 2020-09-21. Local offices not included at the moment.
 
 * The majority of counties have some sort of issue or observation labeled in this readme that affects all their offices and candidates or some other critical race statistics. For that reason, all records were marked with `readme_check` TRUE.
 
@@ -281,9 +289,13 @@ Added 2020-05-02.
 
 For Nevada 2016, there are "masked" vote totals (a voting report law states if in one office election mode there is a turnout of between 1 and 10, the vote totals are hidden--marked as '*' in the original file--to protect voter privacy). There are coded as a negative one (-1) in the cleaned data file's votes variable.
 
+## Oklahoma: 2016
+
+Added 2020-07-09.
+
 ## South Carolina: 2016
 
-Added 2020-09-12.
+Added 2020-09-12. Local offices not included at the moment.
 
 South Carolina raw data does not include absentee, provisional/failsafe, or "emergency" voting totals at the precinct-level. But they are included at the county level. We include the county-level votes for each of these different modes of voting for each election and candidate, but users should be wary when aggregating these totals.
 
@@ -299,13 +311,13 @@ We have kept 301 - Waterview in our 2016 Presidential Primary data for the VA pr
 
 ## Washington: 2016
 
-Added 2020-09-11.
+Added 2020-09-11. Local offices not included at the moment.
 
 For Washington 2016, there are "masked" vote totals, marked as  '*' in the original file--to protect voter privacy. There are coded as a negative one (-1) in the cleaned data file's votes variable.
 
 ## West Virginia: 2016
 
-Added 2020-09-04.
+Added 2020-09-04. Local offices not included at the moment.
 
 There are two candidates for state senate with small discrepancies in the raw data relative to the official results online (found here: https://apps.sos.wv.gov/elections/results/results.aspx?year=2016&eid=22&county=Statewide).
 
@@ -315,6 +327,6 @@ There are two candidates for state senate with small discrepancies in the raw da
 
 ## Wisconsin: 2016
 
-Added 2020-08-24.
+Added 2020-08-24. Local offices not included at the moment.
 
 There are a small number of discrepancies between the raw data and the election results posted [online](https://elections.wi.gov/elections-voting/results/), typically only by a few votes and for non-election day voting modes. These discrepancies are not corrected in our final cleaned data. You can find a list of the known discrepancies inside the Wisconsin folder. 
