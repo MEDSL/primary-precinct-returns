@@ -243,6 +243,26 @@ Added 2020-09-21. Local offices not included at the moment.
 
 Added 2020-05-13.
 
+## Florida: 2016
+
+Added 2021-03-18. Local offices not included at the moment.
+
+We use the precinct level results from the Florida SOS website here: https://dos.myflorida.com/elections/data-statistics/elections-data/election-results-archive/ 
+
+In a limited set of candidate-office-districts, the total vote counts in the precinct level data is off by a handful of votes (often only just 1 vote). Typically, this occurs when the electoral district is one that overlaps Seminole county (which includes all statewide offices or amendments), but not always. 
+
+* The offices/districts/candidates with small discrepancies in the total votes are:
+  - US House District 002, Steve Crapps
+  - State House District 108, Henry Patel
+  - State House District 114, Daisy J Baez
+  - State House District 115, Ross Hancock
+  - Circuit Judge 4th District Group 25, Gerald L Wilkerson
+  - Circuit Judge 11th District Group 9, both candidates
+  - Circuit Judge 11th District Group 66, both candidates
+  - Circuit Judge 11th District Group 74, George "Jorge" A Sarduy
+  - Circuit Judge 18th District Group 9, all candidates
+  
+
 ## Hawaii: 2016
 
 Added 2020-03-20.
