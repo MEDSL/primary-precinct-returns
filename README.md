@@ -27,6 +27,18 @@ Added 2020-08-04.
 
 Added 2020-05-12.
 
+## Florida: 2018
+
+Added 2021-03-23. Local data not included at the moment.
+
+We use the precinct level results from the Florida SOS website here: https://dos.myflorida.com/elections/data-statistics/elections-data/election-results-archive/ 
+
+In a limited set of candidate-office-districts, the total vote counts in the precinct level data is off by a handful of votes (often only just 1 vote). Typically, this occurs when the electoral district is one that overlaps Seminole county (which includes all statewide offices or amendments), but not always. 
+
+* Additionally, our vote totals for Circuit Judge 17th Circuit, Group 42 are off by more than one vote compared to the offical report online:
+  - MICHAEL USAN votes: our data=114,021; online=114,095
+  - RICHARD BRIAN KAPLAN votes: our data=113,690; online=113,722
+
 ## Hawaii: 2018
 
 Added 2020-04-15.
