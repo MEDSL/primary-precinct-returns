@@ -4,7 +4,6 @@ This is the MEDSL repository for official precinct returns for 2016 and 2018 Pri
 
 The `2018_precint_primary` and `2016_precint_primary` datasets contain precinct level primary election returns for all offices in 2018 and 2016. Users can download data by the level of office returns (president, US senate, US house, state, or local levels). For each state that is complete, users can also download all of the precinct-level returns separately in the folders above.
 
-
 The returns are in progress, and will be updated periodically until completion. The following states and districts are included in the dataset:
 
 ## Alaska: 2018
@@ -118,6 +117,14 @@ Added 2020-03-08.
 ## Wisconsin: 2018.
 
 Added 2021-01-12. Local offices not included at the moment.
+
+## Alabama: 2016
+
+Added 2021-03-28. Local offices not included at the moment.
+
+There are small discrepancies between the official online results posted on the SOS website (https://www.sos.alabama.gov/alabama-votes/voter/election-information/2016) and the raw precinct data provided by the SOS. 
+
+Uncontested elections were not included in the raw data, and absentee and provisional votes were reported only at the county level.
 
 ## Alaska: 2016
 
